@@ -1,4 +1,4 @@
-#Field Gifs!
+# Field Gifs!
 
 Despite the fact that gifs are horrible and use too much memory I thought these videos were interesting to see the evolution of these fields obeying the Laplace equation. The endpoint of both videos is not the actual point of convergence.
 
