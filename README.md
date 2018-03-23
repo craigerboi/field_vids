@@ -4,7 +4,7 @@ Despite the fact that gifs are horrible and use too much memory (sorry github!) 
 
 I found thinking about it as though I was watching a system reaching thermodynamic equilibrium was satisfying. If we consider the field as reprsenting temperature in space, with contacts at the edges and on the 1, -1 zones, then Dirichlet conditions meant no heat transfer, Von Neumann no net heat flow. 
 
-Of course, this also has application in electrodynamics, div.B=0... which is cool!
+Of course, this also has application in electrodynamics!
 
 <a href="https://imgflip.com/gif/270om2"><img src="https://i.imgflip.com/270om2.gif" title="made at imgflip.com"/></a>
 
