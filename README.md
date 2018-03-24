@@ -5,8 +5,5 @@ I thought these videos were interesting to see the evolution of these fields obe
 I found it useful to think about the videos as though I was watching a system reaching thermodynamic equilibrium. If we consider the field as reprsenting temperature in space, with contacts at the edges and on the 1, -1 zones, then Dirichlet conditions implies no heat transfer, T=c, Von Neumann conditions means no net heat flow. 
 
 
-<a href="https://imgflip.com/gif/270om2"><img src="https://i.imgflip.com/270om2.gif" title="made at imgflip.com"/></a>
-
-
-<a href="https://imgflip.com/gif/270p09"><img src="https://i.imgflip.com/270p09.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/270om2"><img src="https://i.imgflip.com/270om2.gif" title="made at imgflip.com"/></a> <a href="https://imgflip.com/gif/270p09"><img src="https://i.imgflip.com/270p09.gif" title="made at imgflip.com"/></a>
 
